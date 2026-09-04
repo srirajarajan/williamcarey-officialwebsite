@@ -1,5 +1,3 @@
-project_id = "sjgtvjcdqtnkxlwrvoxy"
-
 [functions.send-application]
 verify_jwt = false
 
